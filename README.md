@@ -27,3 +27,10 @@ Draws a square with one of the corners filled in. Imagine that your square is di
 Draws multiple squares within the previous squares. The given number will be how many squares should be on the screen.
 
 ![Squares in Squares](squares_in_squares.PNG)
+
+---
+## Testing your code
+You may not actually know that your code works until you fully test what you have written. It is often a good idea to get someone else to run your program, they may do something you had not anticipated which could show you a possible flaw or at least a design issue.
+
+## End of class
+In Repl.it, you will find the share link to your code. That is what gets submitted to Canvas.
