@@ -3,11 +3,19 @@ Turtle Graphics
 
 All of the methods for this lab will be written in the TurtleGraphics.py file. In your main() function, you can uncomment one of the function calls. You only need to do one at a time but each of the given commands should work.
 
+## Importing to Repl.it
+There are two ways to bring your work into repl.it
+- Import from GitHub as normal.
+  - The downside is that the turtle graphics window is not as nice.
+- Make a new repl.it using Python (with turtle)
+  - You will then have to copy and paste the starter code into that repl.it
+
+
 ### drawPolygon(turtle, sides)
 Will draw a polygon given the number of sides.
 
 ### fillCorner(turtle, corner)
-Draws a square with one of the corners filled in. Imagine that your square is divided with a horizontal and verticle line. Fill in one of the quadrants based on the input that the function is given.
+Draws a square with one of the corners filled in. Imagine that your square is divided with a horizontal and vertical line. Fill in one of the quadrants based on the input that the function is given.
 1 - Top left
 2 - Top right
 3 - Bottom left
