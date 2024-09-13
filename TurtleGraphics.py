@@ -24,4 +24,5 @@ def main():
 
 
 main()
+
 input("Hit enter to quit") #this keeps the turtle window from disapearing too soon.
