@@ -3,7 +3,8 @@
 #Date:
 #Assignment:
 
-import turtle
+import turtle #needed generally but not in CodeHS
+hideturtle() #hides the default turtle in CodeHS
 
 def drawSquare(myTurtle, size):
     for i in range(4):
@@ -24,5 +25,3 @@ def main():
 
 
 main()
-
-input("Hit enter to quit") #this keeps the turtle window from disapearing too soon.
